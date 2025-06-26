@@ -4,7 +4,7 @@ Sistem ini dirancang untuk memantau kondisi **lingkungan tanaman Aglonema** seca
 
 ## 📷 Contoh Antarmuka
 ![aglonema bot tele](https://github.com/user-attachments/assets/58327027-852a-4176-96d8-b1320c8e5a2a)
-![aglonema bot tele](https://github.com/user-attachments/assets/58327027-852a-4176-96d8-b1320c8e5a2a)
+
 
 ## 🌿 Mengapa Penting?
 
